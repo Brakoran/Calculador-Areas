@@ -1,0 +1,13 @@
+body{
+
+    background-image: url(../img/mate.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    max-width: 70%;
+    
+}
